@@ -1,0 +1,8 @@
+repo_owner: tnwrestler360
+recipe_header:
+  $engine: 3
+  $onesync: on
+  name: QBCore Framework
+  version: 2.2.4
+  author: JericoFx & Kakarot & Hamy
+  description: An advanced FiveM RP framework including jobs, gangs, housing & more!

@@ -1,0 +1,14 @@
+$engine: 3
+$onesync: true
+author: JericoFx & Kakarot & Hamy
+description: An advanced FiveM RP framework including jobs, gangs, housing & more!
+name: QBCore Framework
+version: 2.2.4
+- action: download_github
+  dest: ./resources/[NA]/angelicxs-CivilianJobs
+  ref: master
+  src: https://api.github.com/repos/tnwrestler360/angelicxs-CivilianJobs
+- action: download_github
+  dest: ./resources/[qb]/qb-scrapyard
+  ref: master
+  src: https://api.github.com/repos/tnwrestler360/qb-scrapyard
